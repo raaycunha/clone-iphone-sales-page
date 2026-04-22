@@ -24,7 +24,8 @@ Este projeto foi fundamental para entender:
 
 ## 🔧 Veja o projeto no seu navegador:
 
-- [Clique aqui para visualizar o projeto](https://raaycunha.github.io/clone-iphone-sales-page/)
+- <a href="https://raaycunha.github.io/clone-iphone-sales-page/" target="_blank">Clique aqui para visualizar o projeto</a>
+
 
 ---
 Desenvolvido com **VSCode** & ☕ por **Ray Gonçalves** 🙂
